@@ -7,6 +7,5 @@ spring:
       mode: HTML
       encoding: utf-8
       cache: false
-
 test:
   username: suijinchi
