@@ -1,6 +1,6 @@
 package com.example.demo.service;
 
-import com.example.demo.service.dto.User;
+import com.example.demo.dao.pojo.User;
 
 /**
  * @auther suijinchi
@@ -9,6 +9,6 @@ import com.example.demo.service.dto.User;
  */
 public interface IndexService {
 
-    User getUser();
+    User selectUser();
 
 }
