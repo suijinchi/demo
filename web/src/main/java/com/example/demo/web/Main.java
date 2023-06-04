@@ -35,7 +35,6 @@ public class Main {
         } catch (Throwable e) {
             LOGGER.info(e.getMessage());
         }
-
     }
 
 }
